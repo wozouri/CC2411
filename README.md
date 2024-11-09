@@ -22,7 +22,7 @@
 
 ### 库的使用
 
-- 使用 **png.h **时注意要 libpng 和 libz
+- 使用 png.h 时注意要 libpng 和 libz
 
 
 
