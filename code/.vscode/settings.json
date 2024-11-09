@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "lcd.h": "c",
+        "stat.h": "c",
+        "app.h": "c",
+        "touch.h": "c",
+        "button.h": "c",
+        "run.h": "c",
+        "threadclass.h": "c",
+        "gy39.h": "c",
+        "tool.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "ledorbee.h": "c",
+        "video.h": "c",
+        "mq2.h": "c",
+        "image.h": "c",
+        "cstdio": "c",
+        "monitor.h": "c",
+        "api_v4l2.h": "c",
+        "coloranalyzer.h": "c"
+    }
+}
